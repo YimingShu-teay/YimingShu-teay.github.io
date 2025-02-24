@@ -7,20 +7,11 @@
 main:
   - title: "About Me"
 
-<<<<<<< HEAD
   - title: "Publications"
         
   - title: "Experience"
     
   - title: "Education"
     
-
-=======
-  - title: "Publication"
-
-  - title: "Education"
-        
-  - title: "Experience"
-    
   - title: "Contact"
->>>>>>> dfebdae43c2a9813ecb72044bd4f19785fe36c2c
+
