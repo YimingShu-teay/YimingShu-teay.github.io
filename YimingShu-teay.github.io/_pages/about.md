@@ -13,7 +13,8 @@ About Me
 Hi! I’m Yiming Shu, an MPhil student in Mechanical Engineering at the University of Hong Kong, under the supervision of Prof. Fu Zhang.
 
 
-# Publication
+Publication
+======
 
 **Safety-critical decision-making and control for autonomous vehicles with highest priority**:  ***Y. Shu***,  J. Zhou, F. Zhang.  **IEEE Intelligent Vehicles Symposium**. 2023.
 
@@ -24,7 +25,8 @@ Hi! I’m Yiming Shu, an MPhil student in Mechanical Engineering at the Universi
 
 
 
-# Experience
+Experience
+======
 
 The Hong Kong University of Science and Technology, Research assistant , 2022.10-2023.01
 
@@ -32,7 +34,8 @@ Fudan University, Research Intern, 2023.12-2024.05
 
 
 
-# Education
+Education
+======
 
 Harbin Institute of Technology,  Bachelor of Engineering   2018.09 - 2022.06
 
@@ -40,7 +43,8 @@ The University of Hong Kong,  Master of Philosophy   2023.01 - present
 
 
 
-# Experience
+Experience
+======
 
 The Hong Kong University of Science and Technology, Research assistant, 2022.10-2023.01
 
