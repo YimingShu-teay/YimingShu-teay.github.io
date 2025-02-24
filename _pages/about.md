@@ -13,6 +13,6 @@ Hi! I’m Yiming Shu, an MPhil student in Mechanical Engineering at the Universi
 
 # Experience
 
-The Hong Kong University of Science and Technology, Research assistant , 2022.10-2023.01
+The Hong Kong University of Science and Technology, Research assistant, 2022.10-2023.01
 
 Fudan University, Research Intern, 2023.12-2024.05
