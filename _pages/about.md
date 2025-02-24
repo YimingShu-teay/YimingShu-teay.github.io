@@ -10,9 +10,18 @@ Hi! I’m Yiming Shu, an MPhil student in Mechanical Engineering at the Universi
 
 **Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**: J. Jia, ***Y. Shu***,  Z. Gan , W. Ding.  arXiv preprint. 2024
 
+# Education
+
+Harbin Institute of Technology,  Bachelor of Engineering   2018.09 - 2022.06
+
+The University of Hong Kong,  Master of Philosophy   2023.01 - present
 
 # Experience
 
 The Hong Kong University of Science and Technology, Research assistant, 2022.10-2023.01
 
 Fudan University, Research Intern, 2023.12-2024.05
+
+# Contact
+
+Email: ymshu26@ gmail.com
