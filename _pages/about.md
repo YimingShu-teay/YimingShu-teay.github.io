@@ -2,11 +2,8 @@ About Me
 ======
 Hi! I’m Yiming Shu, an MPhil student in Mechanical Engineering at the University of Hong Kong, under the supervision of Prof. Fu Zhang.
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> dfebdae43c2a9813ecb72044bd4f19785fe36c2c
 # Publication
 
 **Safety-critical decision-making and control for autonomous vehicles with highest priority**:  ***Y. Shu***,  J. Zhou, F. Zhang.  **IEEE Intelligent Vehicles Symposium**. 2023.
@@ -15,7 +12,7 @@ Hi! I’m Yiming Shu, an MPhil student in Mechanical Engineering at the Universi
 
 **Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**: J. Jia, ***Y. Shu***,  Z. Gan , W. Ding.  arXiv preprint. 2024
 
-<<<<<<< HEAD
+
 
 
 # Experience
@@ -26,17 +23,13 @@ Fudan University, Research Intern, 2023.12-2024.05
 
 
 
-
-
-# Contact
-
-Email: ymshu26@ gmail.com
-=======
 # Education
 
 Harbin Institute of Technology,  Bachelor of Engineering   2018.09 - 2022.06
 
 The University of Hong Kong,  Master of Philosophy   2023.01 - present
+
+
 
 # Experience
 
@@ -44,7 +37,9 @@ The Hong Kong University of Science and Technology, Research assistant, 2022.10-
 
 Fudan University, Research Intern, 2023.12-2024.05
 
+
+
 # Contact
 
 Email: ymshu26@ gmail.com
->>>>>>> dfebdae43c2a9813ecb72044bd4f19785fe36c2c
+
